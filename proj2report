@@ -159,15 +159,17 @@
 
         <figure>
           <img src="IMAGE_FILENAME" alt="" />
-          <figcaption>BRIEF CAPTION HERE.</figcaption>
+          <figcaption>abortion rates have significantly increased.</figcaption>
         </figure>
 
         <p>Design Decisions and Rationale:</p>
 
         <ul>
-          <li>RATIONALE_1</li>
-          <li>RATIONALE_2</li>
-          <li>RATIONALE_3</li>
+          <li>Emphasis on Oklahoma (-0.5): I purposefully chose to emphasize Oklahoma's rates by not only adding a caption regarding it, but making the line slightly bolder than the rest,
+             although true, it frames the data to try and persuade the  viewer into thinking a certain way. Although it uses the truth, it is still slightly biased</li>
+          <li>Only Using Specific States(-1.5): I only used the top states with the highest increase in abortion rates. Rather than show the entire picture, I only showed a portion of it.</li>
+          <li>Line graph (1.5): The slope clearly visualizes the percentages and the change over time. It is mostly earnest but it 
+            doesn't show true value of abortions would could provide more context than just the change in proportion.</li>
         </ul>
       </section>
 
@@ -182,16 +184,32 @@
         <p>Design Decisions and Rationale:</p>
 
         <ul>
-          <li>RATIONALE_1</li>
-          <li>RATIONALE_2</li>
-          <li>RATIONALE_3</li>
+          <li>Highlighting 100% Values (-0.5): Again, both are true facts but highlighting how Kentucky has 100% growth for clinics but only 30% increase for abortion rate shows you that the proposition is not true 
+            as the rates are not dependent on access
+          </li>
+          <li>Side by Side Barchart (2): It shows both variables to see if abortion rate is correlated to access (abortion clinics) but there does not seem to be a clear pattern.</li>
+          <li>Title (-1): The title implies that there is a conclusion proved by causation which is not true. The visualization only shows correlation but not causation like the title 
+            states.
+          </li>
         </ul>
       </section>
 
       <section>
         <h2>Final Reflection</h2>
 
-        <p>[WRITE FINAL REFLECTION PARAGRAPHS HERE.]</p>
+        <p>Making various choices for the overall design process was quite difficult for me. I did not fully understand how to make a visualization persuasive without mkaing it blatant
+          or even lying about the data. It was very difficult for me to draw the fine line between persuasive/deceptive or just straight up lying and adjusting the data to fit my own
+          narrative. The easier part of the visualization was choosing the type of graph/visualization for me to use. A side-by-side bar graph was quite simple as it is just to compare
+          two variables and a line chart can often be an easy way to show trends over time which allowed me to see the change in abortion rate. The most surprising part of this project to 
+          me was how simple it is to make something a bit more persuasive. By not using all the numbers or even by rewording the title, it can allow the visualization to be more persuasive
+          towards one opinion. 
+
+          I think I would now define "ethical analysis and visualization" as maybe a visualization with no biases, or at least no major biases. I realized from this project that persuasion
+          is very commonly in data visualizations and oftentimes if they are done properly, it is extremely difficult or impossible to notice at all. For example, just simply bolding a line
+          or using a drastically different colour, it can draw attention to a datapoint that you want the viewer to be made more aware of. I am personally still extremely bad at drawing bounds
+          between acceptable or misleading choices but I think that distorting data without statement is for sure misleading and should not be tolerated. Along with that, I think skewing axis is 
+          also misleading and should not be utilized.
+        </p>
       </section>
     </main>
   </body>
